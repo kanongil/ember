@@ -1,7 +1,7 @@
 {
   "name": "ember",
   "repo": "components/ember",
-  "version": "1.12.1.e807a79c",
+  "version": "1.12.2-e807a79c",
   "main": "ember.debug.js",
   "scripts": [
     "ember.debug.js"
